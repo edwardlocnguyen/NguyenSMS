@@ -4,12 +4,16 @@ School Management System
 
 ## How to run this program:
 
+1 - Open NguyenSMS/hibernate.cfg.xml
 
-1 - Open NguyenSMS/src/main/java/com.SMSNguyen.SMSNguyen/App.java
+2 - Update the connection url, username, and password to the database in your local computer accordingly
 
-2 - Run Java Application
 
-3 - Follow instructions printed in the console
+3 - Open NguyenSMS/src/main/java/com.NguyenSMS.NguyenSMS/App.java
+
+4 - Run Java Application
+
+5 - Follow instructions printed in the console
 
 Notes:
 
@@ -19,6 +23,6 @@ Instructions will prompt you to run the two SQL scripts that are attached in thi
 ## How to run the test:
 
 
-1 - Open NguyenSMS/src/test/java/StudentServiceTest.java
+1 - Open NguyenSMS/src/test/java/com.NguyenSMS.NguyenSMS/StudentStudentServiceTest.java
 
 2 - Run JUnit Test
